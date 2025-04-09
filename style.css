@@ -1,0 +1,16 @@
+*{font-weight: 300;
+font-family:Arial BOLD;
+font-color:orange;}
+
+#styling{padding:20px 10px;
+margin:20px 15px;
+width: 350px;
+height: 200px;
+border: 10px;}
+ 
+body{background-image: url(nature.jpg.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;}
+
+.tag{:text-align:left;}
